@@ -3,9 +3,8 @@ public class Program {
 
 
 	public static void main(String[] args) {
-		
-		NaplnRoomy.naplnMiestnosti();
-		NaplnRoomy.zaciatok();
+			
+		NaplnRoomy.start();
 		try {
 			NaplnRoomy.zavolajMiestnosti();
 		} catch (Exception e) {
