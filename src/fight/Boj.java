@@ -2,8 +2,6 @@ package fight;
 
 public class Boj {
 	
-	// comment
-	
 	int vyslednyUtokHrdina;
 	int vyslednaObranaHrdina;
 	int vyslednyUtokNepriatel;
